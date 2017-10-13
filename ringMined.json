@@ -1,0 +1,28 @@
+{
+  "id":64,
+  "jsonrpc": "2.0",
+  "result": {
+     "data" : [
+       {
+        "ringhash" : "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
+        "miner" : "0x8888f1f195afa192cfee860698584c030f4c9db1",
+        "feeRecepient" : "0x8888f1f195afa192cfee860698584c030f4c9db1"
+        "orders" : [
+          {
+            "orderHash" : "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
+            "blockNumber" : 2345223,
+            "prevOrderHash" : "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
+            "nextOrderHash" : "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
+            "amountS" : 34.2,
+            "amountB" : 38.1,
+            "lrcReward" : 0.2,
+            "lrcFee" : 0.31
+          }
+        ]
+       }
+     ],
+     "total" : 1,
+     "pageIndex" : 1,
+     "pageSize" : 10
+  }
+}

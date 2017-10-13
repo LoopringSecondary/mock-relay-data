@@ -1,0 +1,45 @@
+{
+  "id":64,
+  "jsonrpc": "2.0",
+  "result": {
+    "orginalOrder" : {
+      "address" : "0x847983c3a34afa192cfee860698584c030f4c9db1",
+      "tokenS" : "Eth",
+      "tokenB" : "Lrc",
+      "amountS" : "0x56ff12e967bae0000",
+      "amountB" : "0x32cd1ec90f91160000000",
+      "timestamp" : "0x59dee032",
+      "ttl": "0xd2f00",
+      "salt" : "0x1",
+      "lrcFee" : "0x5",
+      "buyNoMoreThanAmountB" : true,
+      "savingSharePercentage" : "0x32",
+      "v" : "0x1c",
+      "r" : "37d465800e7b22b533d7be15b4034a67a31dff77c076ff8a4ba54aa26f4fddf2",
+      "s" : "05e2cc64f022201c25e076d98754ff0c7c2cea81d81a14a9af5798c95ce19b5c",
+      "ts" : "0x59ccbe14"
+    },
+    "status" : "PartiallyExecuted",
+    "totalDealedAmountS" : "0x1a055690d9db80000",
+    "totalDealedAmountB" : "0x636281068fe20000000",
+    "matchList" : {
+      "total" : 2,
+      "pageIndex" : 1,
+      "pageSize" : 20,
+      "data" : [
+        {
+          "ts" : "0x15ea578c8f0",
+          "amountS" : "0x1a4a2c06926170000",
+          "amountB" : "0xd544c1f6afc4c80000",
+          "txHash" : "0x1eb8d538bb9727028912f57c54776d90c1927e3b49f34a2e53e9271949ec044c"
+        },
+        {
+          "ts" : "0x15ea578ca33",
+          "amountS" : "0x1a4a2c06926170000",
+          "amountB" : "0xd544c1f6afc4c80000",
+          "txHash" : "0x1eb8d538bb9727028912f57c54776d90c1927e3b49f34a2e53e9271949ec044c"
+        }
+      ]
+    }
+  }
+}

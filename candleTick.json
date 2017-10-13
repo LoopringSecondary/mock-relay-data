@@ -1,0 +1,17 @@
+{
+  "id":64,
+  "jsonrpc": "2.0",
+  "result": {
+    "data" : [
+      {
+        "fillAmountS" : 20,
+        "fillAmountB" : 30.21,
+        "ts" : 1506014710000,
+        "open" : 3232.1,
+        "close" : 2321,
+        "high" : 1231.2,
+        "low" : 1234.2
+      }
+    ]
+  }
+}
