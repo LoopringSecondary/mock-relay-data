@@ -1,4 +1,4 @@
 {
 	"message": "This is a message",
-	"category" :  "notice"
+	"category" :  "warning"
 }
