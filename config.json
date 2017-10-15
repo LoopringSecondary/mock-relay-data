@@ -1,0 +1,42 @@
+{
+  "tokens":
+  {
+    "ETH":
+    {
+      "name": "Ether",
+      "digits": 18,
+      "contract": "fdfdasfdsafasfj",
+      "unit": "ETH",
+      "website": "https://ethereum.org"
+    },
+    "ETHT":
+    {
+      "name": "Ether Token",
+      "digits": 18,
+      "contract": "fdafdafafdsfdsalfjasd",
+      "unit": "ETHT",
+      "website": "https://weth.io"
+    },
+    "LRC":
+    {
+      "name": "Loopring Token",
+      "digits": 18,
+      "contract": "10fdsafdsafafa",
+      "unit": "LRC",
+      "website": "https://loopring.org"
+    },
+    "ZRX":
+    {
+      "name": "0x Token",
+      "digits": 18,
+      "contract": "rueoafdsafjdsafj",
+      "unit": "ZRX",
+      "website": "https://0xproject.org"
+    }
+  },
+  "langs":
+  {
+    "en": "English",
+    "zh": "中文"
+  },
+}
