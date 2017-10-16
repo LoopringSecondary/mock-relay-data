@@ -54,8 +54,13 @@
       "label": "CNY"
     }
   ],
-  "relays": {
-    "Looper Relay 1": "//relay1.loopring.io",
-    "Looper Relay 2": "//relay2.loopring.io"
-  }
+  "relays": [
+    {
+      "value": "//relay1.loopring.io",
+      "label": "Default Looper Relay"
+    },{
+      "value": "//relay2.loopring.io",
+      "label": "Backup Looper Relay"
+    }
+  ]
 }
