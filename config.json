@@ -47,11 +47,11 @@
   "fiat": [
     {
       "value": "usd",
-      "label": "US Dollar"
+      "label": "USD"
     },
     {
       "value": "cny",
-      "label": "Chinese Yuan"
+      "label": "CNY"
     }
   ],
   "relays": {
