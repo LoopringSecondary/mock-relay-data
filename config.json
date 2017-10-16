@@ -7,7 +7,9 @@
       "digits": 18,
       "contract": "fdfdasfdsafasfj",
       "unit": "ETH",
-      "website": "https://ethereum.org"
+      "website": "https://ethereum.org",
+      "allowance": 1000,
+      "allowanceWarn": 500
     },
     "ETHT":
     {
@@ -15,7 +17,9 @@
       "digits": 18,
       "contract": "fdafdafafdsfdsalfjasd",
       "unit": "ETHT",
-      "website": "https://weth.io"
+      "website": "https://weth.io",
+      "allowance": 1000,
+      "allowanceWarn": 100
     },
     "LRC":
     {
@@ -23,7 +27,9 @@
       "digits": 18,
       "contract": "10fdsafdsafafa",
       "unit": "LRC",
-      "website": "https://loopring.org"
+      "website": "https://loopring.org",
+      "allowance": 1000,
+      "allowanceWarn": 50
     },
     "ZRX":
     {
@@ -31,7 +37,9 @@
       "digits": 18,
       "contract": "rueoafdsafjdsafj",
       "unit": "ZRX",
-      "website": "https://0xproject.org"
+      "website": "https://0xproject.org",
+      "allowance": 1000,
+      "allowanceWarn": 5
     }
   },
   "langs":[

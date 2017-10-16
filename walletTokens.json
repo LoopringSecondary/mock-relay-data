@@ -5,39 +5,44 @@
     "address": "0xec28569d3FD03Ac0Eb2157DBeC81a3665cb3D32d",
     "tokens": [
       {
-        "symbol": "MNE",
+        "contract": "10fdsafdsafafa",
         "decimal": 8,
         "balance": 512300,
         "priceUSD": 988,
-        "valueUSD": 3411
+        "valueUSD": 3411,
+        "allowance": 41
       },
       {
-        "symbol": "OAX",
+        "contract": "rueoafdsafjdsafj",
         "decimal": 8,
         "balance": 1000,
-        "priceUSD": 988,
-        "valueUSD": 3411
+        "priceUSD": 9.1,
+        "valueUSD": 9100,
+        "allowance": 0
       },
       {
-        "symbol": "EDG",
+        "contract": "fdafdafafdsfdsalfjasd",
         "decimal": 8,
         "balance": 20,
         "priceUSD": 1,
-        "valueUSD": 20
+        "valueUSD": 20,
+        "allowance": 20
       },
       {
-        "symbol": "CRB",
+        "contract": "10fdsafdsafafa",
         "decimal": 8,
         "balance": 30,
         "priceUSD": 25,
-        "valueUSD": 750
+        "valueUSD": 750,
+        "allowance": 30
       },
       {
-        "symbol": "1ST",
+        "contract": "rueoafdsafjdsafj",
         "decimal": 8,
         "balance": 5,
         "priceUSD": 9,
-        "valueUSD": 45
+        "valueUSD": 45,
+        "allowance": 4
       }
     ]
   }
