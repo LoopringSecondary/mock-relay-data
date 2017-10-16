@@ -34,11 +34,16 @@
       "website": "https://0xproject.org"
     }
   },
-  "langs":
-  {
-    "en": "English",
-    "zh": "中文"
-  },
+  "langs":[
+    {
+      "symbol": "en",
+      "name": "English"
+    },
+   {
+      "symbol": "zh",
+      "name": "中文"
+    }
+  ],
   "fiat": ["USD", "CNY"],
   "relays": {
     "Looper Relay 1": "//relay1.loopring.io",
