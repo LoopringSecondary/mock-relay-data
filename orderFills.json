@@ -7,8 +7,16 @@
         "txHash" : "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
         "fillAmountS" : 20,
         "fillAmountB" : 30.21,
-        "ts" : 1506014710000
-      }
+        "isBuy" : true,
+        "ts" : 1506014710
+      },
+      {
+        "txHash" : "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
+        "fillAmountS" : 20,
+        "fillAmountB" : 30.21,
+        "isBuy" : false,
+        "ts" : 1506014710
+       }
     ],
     "pageIndex" : 1,
     "pageSize" : 20,
