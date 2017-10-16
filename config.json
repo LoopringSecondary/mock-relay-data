@@ -39,4 +39,9 @@
     "en": "English",
     "zh": "中文"
   },
+  "fiat": ["USD", "CNY"],
+  "relays": {
+    "Looper Relay 1": "//relay1.loopring.io",
+    "Looper Relay 2": "//relay2.loopring.io"
+  }
 }
