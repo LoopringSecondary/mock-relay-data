@@ -36,12 +36,12 @@
   },
   "langs":[
     {
-      "symbol": "en",
-      "name": "English"
+      "value": "en",
+      "label": "English"
     },
    {
-      "symbol": "zh",
-      "name": "中文"
+      "value": "zh",
+      "label": "中文"
     }
   ],
   "fiat": ["USD", "CNY"],
