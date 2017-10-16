@@ -1,0 +1,44 @@
+{
+  "id":64,
+  "jsonrpc": "2.0",
+  "result": {
+    "address": "0xec28569d3FD03Ac0Eb2157DBeC81a3665cb3D32d",
+    "tokens": [
+      {
+        "symbol": "MNE",
+        "decimal": 8,
+        "balance": 512300,
+        "priceUSD": 988,
+        "valueUSD": 3411
+      },
+      {
+        "symbol": "OAX",
+        "decimal": 8,
+        "balance": 1000,
+        "priceUSD": 988,
+        "valueUSD": 3411
+      },
+      {
+        "symbol": "EDG",
+        "decimal": 8,
+        "balance": 20,
+        "priceUSD": 1,
+        "valueUSD": 20
+      },
+      {
+        "symbol": "CRB",
+        "decimal": 8,
+        "balance": 30,
+        "priceUSD": 25,
+        "valueUSD": 750
+      },
+      {
+        "symbol": "1ST",
+        "decimal": 8,
+        "balance": 5,
+        "priceUSD": 9,
+        "valueUSD": 45
+      }
+    ]
+  }
+}

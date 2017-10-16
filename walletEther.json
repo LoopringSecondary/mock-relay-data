@@ -1,0 +1,23 @@
+{
+  "id":64,
+  "jsonrpc": "2.0",
+  "result": {
+    "address": "0xec28569d3FD03Ac0Eb2157DBeC81a3665cb3D32d",
+    "ether": [
+      {
+        "symbol": "ETH",
+        "balance": 512300,
+        "unit": "gwei",
+        "priceUSD": 988,
+        "valueUSD": 3411
+      },
+      {
+        "symbol": "WETH",
+        "balance": 1000,
+        "unit": "gwei",
+        "priceUSD": 988,
+        "valueUSD": 3411
+      }
+    ]
+  }
+}
