@@ -5,14 +5,14 @@
     "address": "0xec28569d3FD03Ac0Eb2157DBeC81a3665cb3D32d",
     "ether": [
       {
-        "contract": "fdfdasfdsafasfj",
+        "contract": "eth",
         "balance": 512300,
         "unit": "gwei",
         "priceUSD": 988,
         "valueUSD": 3411
       },
       {
-        "contract": "fdafdafafdsfdsalfjasd",
+        "contract": "0x2956356cd2a2bf3202f771f50d3d14a367b48070",
         "balance": 1000,
         "unit": "gwei",
         "priceUSD": 0.13,

@@ -5,7 +5,7 @@
     "address": "0xec28569d3FD03Ac0Eb2157DBeC81a3665cb3D32d",
     "tokens": [
       {
-        "contract": "10fdsafdsafafa",
+        "contract": "0xef68e7c694f40c8202821edf525de3782458639f",
         "decimal": 8,
         "balance": 512300,
         "priceUSD": 988,
@@ -13,7 +13,7 @@
         "allowance": 210
       },
       {
-        "contract": "rueoafdsafjdsafj",
+        "contract": "0xAf30D2a7E90d7DC361c8C4585e9BB7D2F6f15bc7",
         "decimal": 8,
         "balance": 1000,
         "priceUSD": 9.1,
@@ -21,7 +21,7 @@
         "allowance": 0
       },
       {
-        "contract": "fdafdafafdsfdsalfjasd",
+        "contract": "0x422866a8F0b032c5cf1DfBDEf31A20F4509562b0",
         "decimal": 8,
         "balance": 20,
         "priceUSD": 1,
@@ -29,7 +29,7 @@
         "allowance": 20
       },
       {
-        "contract": "10fdsafdsafafa",
+        "contract": "0x960b236A07cf122663c4303350609A66A7B288C0",
         "decimal": 8,
         "balance": 30,
         "priceUSD": 25,
@@ -37,7 +37,7 @@
         "allowance": 30
       },
       {
-        "contract": "rueoafdsafjdsafj",
+        "contract": "0x2e071D2966Aa7D8dECB1005885bA1977D6038A65",
         "decimal": 8,
         "balance": 5,
         "priceUSD": 9,
