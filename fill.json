@@ -2,15 +2,12 @@
   "id":64,
   "jsonrpc": "2.0",
   "result": {
-    "data" :
-    {
-        "txHash" : "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-        "orders" : [
-          "0xfaetata",
-          "0xll2134"
-        ],
-        "ringHash" : "0x234w",
-        "ts" : 1506014710
-    }
+    "txHash" : "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
+    "orders" : [
+      "0xfaetata",
+      "0xll2134"
+    ],
+    "ringHash" : "0x234w",
+    "ts" : 1506014710
   }
 }
