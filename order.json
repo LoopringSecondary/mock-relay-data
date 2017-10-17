@@ -26,8 +26,8 @@
       "data" : [
         {
           "ts" : "0x15ea578c8f0",
-          "amountS" : "0x1a4a2c06926170000",
-          "amountB" : "0xd544c1f6afc4c80000",
+          "amountS" : "1.123",
+          "amountB" : "2.112",
           "txHash" : "0x1eb8d538bb9727028912f57c54776d90c1927e3b49f34a2e53e9271949ec044c",
           "ringHash": "asefsef",
           "lrcFee": "0",
@@ -35,8 +35,8 @@
         },
         {
           "ts" : "0x15ea578ca33",
-          "amountS" : "0x1a4a2c06926170000",
-          "amountB" : "0xd544c1f6afc4c80000",
+          "amountS" : "2.14",
+          "amountB" : "1234",
           "txHash" : "0x1eb8d538bb9727028912f57c54776d90c1927e3b49f34a2e53e9271949ec044c",
           "ringHash": "asefsef",
           "lrcFee": "0",
