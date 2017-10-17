@@ -6,8 +6,8 @@
       "owner" : "0x847983c3a34afa192cfee860698584c030f4c9db1",
       "tokenS" : "0xAf30D2a7E90d7DC361c8C4585e9BB7D2F6f15bc7",
       "tokenB" : "0x422866a8F0b032c5cf1DfBDEf31A20F4509562b0",
-      "amountS" : "0x56ff12e967bae0000",
-      "amountB" : "0x20f5b1eaad8d800000",
+      "amountS" : "10.123",
+      "amountB" : "29312",
       "timestamp" : "1508211775",
       "ttl": "0xd2f00",
       "salt" : "0x1",
@@ -17,8 +17,8 @@
       "ts" : "0x59ccbe14"
     },
     "status" : "PartiallyExecuted",
-    "totalDealedAmountS" : "0x1a055690d9db80000",
-    "totalDealedAmountB" : "0x636281068fe20000000",
+    "totalDealedAmountS" : "9.134",
+    "totalDealedAmountB" : "29312",
     "matchList" : {
       "total" : 2,
       "pageIndex" : 1,
