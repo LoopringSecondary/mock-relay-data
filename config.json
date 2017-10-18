@@ -110,5 +110,15 @@
       "value": "//relay2.loopring.io",
       "label": "Backup Looper Relay"
     }
+  ],
+  "markets":[
+    "LRC/ETH",
+    "EOS/ETH",
+    "1ST/ETH",
+    "ADX/ETH",
+    "BAT/ETH",
+    "HKG/ETH",
+    "ICN/ETH",
+    "PAY/ETH"
   ]
 }
