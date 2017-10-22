@@ -8,7 +8,8 @@
         "unit": "ETH",
         "website": "https://ethereum.org",
         "allowance": 1000,
-        "allowanceWarn": 500
+        "allowanceWarn": 500,
+        "preicison": 6
     },
     {
         "token": "WETH",
@@ -18,7 +19,8 @@
         "unit": "WETH",
         "website": "https://weth.io",
         "allowance": 1000,
-        "allowanceWarn": 100
+        "allowanceWarn": 100,
+        "preicison": 6
     },
     {
         "token": "LRC",
@@ -28,7 +30,8 @@
         "unit": "LRC",
         "website": "https://loopring.org",
         "allowance": 1000,
-        "allowanceWarn": 50
+        "allowanceWarn": 50,
+        "preicison": 6
     },
     {
         "token": "ZRX",
@@ -38,7 +41,8 @@
         "unit": "ZRX",
         "website": "https://0xproject.org",
         "allowance": 1000,
-        "allowanceWarn": 5
+        "allowanceWarn": 5,
+        "preicison": 6
     },
     {
         "token": "1ST",
@@ -48,7 +52,8 @@
         "unit": "1ST",
         "website": "",
         "allowance": 1000,
-        "allowanceWarn": 5
+        "allowanceWarn": 5,
+        "preicison": 6
     },
     {
         "token": "ADST",
@@ -58,7 +63,8 @@
         "unit": "ADST",
         "website": "",
         "allowance": 1000,
-        "allowanceWarn": 5
+        "allowanceWarn": 5,
+        "preicison": 6
     },
     {
         "token": "ATN",
@@ -68,7 +74,8 @@
         "unit": "ANT",
         "website": "",
         "allowance": 1000,
-        "allowanceWarn": 5
+        "allowanceWarn": 5,
+        "preicison": 6
     },
     {
         "token": "DICE",
@@ -78,7 +85,9 @@
         "unit": "DICE",
         "website": "",
         "allowance": 1000,
-        "allowanceWarn": 5
+        "allowanceWarn": 5,
+        "preicison": 6,
+        "minTradeValue": 0.001
     }],
     "langs": [
     {
@@ -110,56 +119,32 @@
     "markets": [
     {
         "tokenx": "LRC",
-        "tokensPrecision": 8,
-        "tokensMin": 0.1,
         "tokeny": "WETH",
-        "tokenbPrecision": 8,
-        "pricePrecision": 8,
-        "tokenbMin": 0.1
+        "pricePrecision": 8
     },
     {
         "tokenx": "1ST",
-        "tokensPrecision": 8,
-        "tokensMin": 0.1,
         "tokeny": "WETH",
-        "tokenbPrecision": 8,
-        "pricePrecision": 8,
-        "tokenbMin": 0.1
+        "pricePrecision": 8
     },
     {
         "tokenx": "ATN",
-        "tokensPrecision": 8,
-        "tokensMin": 0.1,
         "tokeny": "WETH",
-        "tokenbPrecision": 8,
-        "pricePrecision": 8,
-        "tokenbMin": 0.1
+        "pricePrecision": 8
     },
     {
         "tokenx": "1ST",
-        "tokensPrecision": 8,
-        "tokensMin": 0.1,
         "tokeny": "WETH",
-        "tokenbPrecision": 8,
-        "pricePrecision": 8,
-        "tokenbMin": 0.1
+        "pricePrecision": 8
     },
     {
         "tokenx": "DICE",
-        "tokensPrecision": 8,
-        "tokensMin": 0.1,
         "tokeny": "WETH",
-        "tokenbPrecision": 8,
-        "pricePrecision": 8,
-        "tokenbMin": 0.1
+        "pricePrecision": 8
     },
     {
         "tokenx": "ZRX",
-        "tokensPrecision": 8,
-        "tokensMin": 0.1,
         "tokeny": "WETH",
-        "tokenbPrecision": 8,
-        "pricePrecision": 8,
-        "tokenbMin": 0.1
+        "pricePrecision": 8
     }]
 }
