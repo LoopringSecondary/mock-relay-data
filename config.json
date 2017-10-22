@@ -1,87 +1,85 @@
 {
-    "tokens":
+    "tokens": [
     {
-        "ETH":
-        {
-            "name": "Ether",
-            "digits": 18,
-            "contract": "eth",
-            "unit": "ETH",
-            "website": "https://ethereum.org",
-            "allowance": 1000,
-            "allowanceWarn": 500
-        },
-        "WETH":
-        {
-            "name": "Ether Token",
-            "digits": 18,
-            "contract": "0x2956356cd2a2bf3202f771f50d3d14a367b48070",
-            "unit": "WETH",
-            "website": "https://weth.io",
-            "allowance": 1000,
-            "allowanceWarn": 100
-        },
-        "LRC":
-        {
-            "name": "Loopring Token",
-            "digits": 18,
-            "contract": "0xef68e7c694f40c8202821edf525de3782458639f",
-            "unit": "LRC",
-            "website": "https://loopring.org",
-            "allowance": 1000,
-            "allowanceWarn": 50
-        },
-        "ZRX":
-        {
-            "name": "0x Token",
-            "digits": 18,
-            "contract": "rueoafdsafjdsafj",
-            "unit": "ZRX",
-            "website": "https://0xproject.org",
-            "allowance": 1000,
-            "allowanceWarn": 5
-        },
-        "1ST":
-        {
-            "name": "",
-            "digits": 18,
-            "contract": "0xAf30D2a7E90d7DC361c8C4585e9BB7D2F6f15bc7",
-            "unit": "1ST",
-            "website": "",
-            "allowance": 1000,
-            "allowanceWarn": 5
-        },
-        "ADST":
-        {
-            "name": "",
-            "digits": 18,
-            "contract": "0x422866a8F0b032c5cf1DfBDEf31A20F4509562b0",
-            "unit": "ADST",
-            "website": "",
-            "allowance": 1000,
-            "allowanceWarn": 5
-        },
-        "ANT":
-        {
-            "name": "",
-            "digits": 18,
-            "contract": "0x960b236A07cf122663c4303350609A66A7B288C0",
-            "unit": "ANT",
-            "website": "",
-            "allowance": 1000,
-            "allowanceWarn": 5
-        },
-        "DICE":
-        {
-            "name": "",
-            "digits": 18,
-            "contract": "0x2e071D2966Aa7D8dECB1005885bA1977D6038A65",
-            "unit": "DICE",
-            "website": "",
-            "allowance": 1000,
-            "allowanceWarn": 5
-        }
+        "symbol": "ETH",
+        "name": "Ether",
+        "digits": 18,
+        "contract": "eth",
+        "unit": "ETH",
+        "website": "https://ethereum.org",
+        "allowance": 1000,
+        "allowanceWarn": 500
     },
+    {
+        "symbol": "WETH",
+        "name": "Ether Token",
+        "digits": 18,
+        "contract": "0x2956356cd2a2bf3202f771f50d3d14a367b48070",
+        "unit": "WETH",
+        "website": "https://weth.io",
+        "allowance": 1000,
+        "allowanceWarn": 100
+    },
+    {
+        "symbol": "LRC",
+        "name": "Loopring Token",
+        "digits": 18,
+        "contract": "0xef68e7c694f40c8202821edf525de3782458639f",
+        "unit": "LRC",
+        "website": "https://loopring.org",
+        "allowance": 1000,
+        "allowanceWarn": 50
+    },
+    {
+        "symbol": "ZRX",
+        "name": "0x Token",
+        "digits": 18,
+        "contract": "rueoafdsafjdsafj",
+        "unit": "ZRX",
+        "website": "https://0xproject.org",
+        "allowance": 1000,
+        "allowanceWarn": 5
+    },
+    {
+        "symbol": "1ST",
+        "name": "",
+        "digits": 18,
+        "contract": "0xAf30D2a7E90d7DC361c8C4585e9BB7D2F6f15bc7",
+        "unit": "1ST",
+        "website": "",
+        "allowance": 1000,
+        "allowanceWarn": 5
+    },
+    {
+        "symbol": "ADST",
+        "name": "",
+        "digits": 18,
+        "contract": "0x422866a8F0b032c5cf1DfBDEf31A20F4509562b0",
+        "unit": "ADST",
+        "website": "",
+        "allowance": 1000,
+        "allowanceWarn": 5
+    },
+    {
+        "symbol": "ATN",
+        "name": "",
+        "digits": 18,
+        "contract": "0x960b236A07cf122663c4303350609A66A7B288C0",
+        "unit": "ANT",
+        "website": "",
+        "allowance": 1000,
+        "allowanceWarn": 5
+    },
+    {
+        "symbol": "DICE",
+        "name": "",
+        "digits": 18,
+        "contract": "0x2e071D2966Aa7D8dECB1005885bA1977D6038A65",
+        "unit": "DICE",
+        "website": "",
+        "allowance": 1000,
+        "allowanceWarn": 5
+    }],
     "langs": [
     {
         "value": "en",
@@ -109,67 +107,59 @@
         "value": "//relay2.loopring.io",
         "label": "Backup Looper Relay"
     }],
-    "markets":
+    "markets": [
     {
-        "LRC-WETH":
-        {
-            "tokens": "LRC",
-            "tokensPrecision": 8,
-            "tokensMin": 0.1,
-            "tokenb": "WETH",
-            "tokenbPrecision": 8,
-            "pricePrecision": 8,
-            "tokenbMin": 0.1
-        },
-        "EOS-WETH":
-        {
-            "tokens": "EOS",
-            "tokensPrecision": 8,
-            "tokensMin": 0.1,
-            "tokenb": "WETH",
-            "tokenbPrecision": 8,
-            "pricePrecision": 8,
-            "tokenbMin": 0.1
-        },
-        "ZRX-WETH":
-        {
-            "tokens": "ZRX",
-            "tokensPrecision": 8,
-            "tokensMin": 0.1,
-            "tokenb": "WETH",
-            "tokenbPrecision": 8,
-            "pricePrecision": 8,
-            "tokenbMin": 0.1
-        },
-        "1ST-WETH":
-        {
-            "tokens": "1ST",
-            "tokensPrecision": 8,
-            "tokensMin": 0.1,
-            "tokenb": "WETH",
-            "tokenbPrecision": 8,
-            "pricePrecision": 8,
-            "tokenbMin": 0.1
-        },
-        "EOS-WETH":
-        {
-            "tokens": "EOS",
-            "tokensPrecision": 8,
-            "tokensMin": 0.1,
-            "tokenb": "WETH",
-            "tokenbPrecision": 8,
-            "pricePrecision": 8,
-            "tokenbMin": 0.1
-        },
-        "PPX-WETH":
-        {
-            "tokens": "PPX",
-            "tokensPrecision": 8,
-            "tokensMin": 0.1,
-            "tokenb": "WETH",
-            "tokenbPrecision": 8,
-            "pricePrecision": 8,
-            "tokenbMin": 0.1
-        }
-    }
+        "tokens": "LRC",
+        "tokensPrecision": 8,
+        "tokensMin": 0.1,
+        "tokenb": "WETH",
+        "tokenbPrecision": 8,
+        "pricePrecision": 8,
+        "tokenbMin": 0.1
+    },
+    {
+        "tokens": "1ST",
+        "tokensPrecision": 8,
+        "tokensMin": 0.1,
+        "tokenb": "WETH",
+        "tokenbPrecision": 8,
+        "pricePrecision": 8,
+        "tokenbMin": 0.1
+    },
+    {
+        "tokens": "ATN",
+        "tokensPrecision": 8,
+        "tokensMin": 0.1,
+        "tokenb": "WETH",
+        "tokenbPrecision": 8,
+        "pricePrecision": 8,
+        "tokenbMin": 0.1
+    },
+    {
+        "tokens": "1ST",
+        "tokensPrecision": 8,
+        "tokensMin": 0.1,
+        "tokenb": "WETH",
+        "tokenbPrecision": 8,
+        "pricePrecision": 8,
+        "tokenbMin": 0.1
+    },
+    {
+        "tokens": "DICE",
+        "tokensPrecision": 8,
+        "tokensMin": 0.1,
+        "tokenb": "WETH",
+        "tokenbPrecision": 8,
+        "pricePrecision": 8,
+        "tokenbMin": 0.1
+    },
+    {
+        "tokens": "ZRX",
+        "tokensPrecision": 8,
+        "tokensMin": 0.1,
+        "tokenb": "WETH",
+        "tokenbPrecision": 8,
+        "pricePrecision": 8,
+        "tokenbMin": 0.1
+    }]
 }
