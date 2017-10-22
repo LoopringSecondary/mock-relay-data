@@ -1,0 +1,84 @@
+{
+    "bids": [
+    {
+        "price": 999,
+        "size": 2222
+    },
+    {
+        "price": 998,
+        "size": 123
+    },
+    {
+        "price": 997,
+        "size": 42
+    },
+    {
+        "price": 996,
+        "size": 43
+    },
+    {
+        "price": 995,
+        "size": 63
+    },
+    {
+        "price": 994,
+        "size": 33
+    },
+    {
+        "price": 993,
+        "size": 54
+    },
+    {
+        "price": 992,
+        "size": 12
+    },
+    {
+        "price": 991,
+        "size": 43
+    },
+    {
+        "price": 990,
+        "size": 123
+    }],
+    "asks": [
+    {
+        "price": 1119,
+        "size": 2222
+    },
+    {
+        "price": 1118,
+        "size": 123
+    },
+    {
+        "price": 1117,
+        "size": 42
+    },
+    {
+        "price": 1116,
+        "size": 43
+    },
+    {
+        "price": 1115,
+        "size": 63
+    },
+    {
+        "price": 1114,
+        "size": 33
+    },
+    {
+        "price": 1113,
+        "size": 54
+    },
+    {
+        "price": 1112,
+        "size": 12
+    },
+    {
+        "price": 1111,
+        "size": 43
+    },
+    {
+        "price": 1110,
+        "size": 123
+    }]
+}
