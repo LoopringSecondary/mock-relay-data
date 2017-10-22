@@ -111,7 +111,7 @@
     }],
     "markets":
     {
-        "LRC-ETH":
+        "LRC-WETH":
         {
             "tokens": "LRC",
             "tokensPrecision": 8,
@@ -121,7 +121,7 @@
             "pricePrecision": 8,
             "tokenbMin": 0.1
         },
-        "EOS-ETH":
+        "EOS-WETH":
         {
             "tokens": "EOS",
             "tokensPrecision": 8,
@@ -131,7 +131,7 @@
             "pricePrecision": 8,
             "tokenbMin": 0.1
         },
-        "ZRX-ETH":
+        "ZRX-WETH":
         {
             "tokens": "ZRX",
             "tokensPrecision": 8,
@@ -141,7 +141,7 @@
             "pricePrecision": 8,
             "tokenbMin": 0.1
         },
-        "1ST-ETH":
+        "1ST-WETH":
         {
             "tokens": "1ST",
             "tokensPrecision": 8,
@@ -151,7 +151,7 @@
             "pricePrecision": 8,
             "tokenbMin": 0.1
         },
-        "EOS-ETH":
+        "EOS-WETH":
         {
             "tokens": "EOS",
             "tokensPrecision": 8,
@@ -161,7 +161,7 @@
             "pricePrecision": 8,
             "tokenbMin": 0.1
         },
-        "PPX-ETH":
+        "PPX-WETH":
         {
             "tokens": "PPX",
             "tokensPrecision": 8,
