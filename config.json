@@ -1,7 +1,7 @@
 {
     "tokens": [
     {
-        "symbol": "ETH",
+        "token": "ETH",
         "name": "Ether",
         "digits": 18,
         "contract": "eth",
@@ -11,7 +11,7 @@
         "allowanceWarn": 500
     },
     {
-        "symbol": "WETH",
+        "token": "WETH",
         "name": "Ether Token",
         "digits": 18,
         "contract": "0x2956356cd2a2bf3202f771f50d3d14a367b48070",
@@ -21,7 +21,7 @@
         "allowanceWarn": 100
     },
     {
-        "symbol": "LRC",
+        "token": "LRC",
         "name": "Loopring Token",
         "digits": 18,
         "contract": "0xef68e7c694f40c8202821edf525de3782458639f",
@@ -31,7 +31,7 @@
         "allowanceWarn": 50
     },
     {
-        "symbol": "ZRX",
+        "token": "ZRX",
         "name": "0x Token",
         "digits": 18,
         "contract": "rueoafdsafjdsafj",
@@ -41,7 +41,7 @@
         "allowanceWarn": 5
     },
     {
-        "symbol": "1ST",
+        "token": "1ST",
         "name": "",
         "digits": 18,
         "contract": "0xAf30D2a7E90d7DC361c8C4585e9BB7D2F6f15bc7",
@@ -51,7 +51,7 @@
         "allowanceWarn": 5
     },
     {
-        "symbol": "ADST",
+        "token": "ADST",
         "name": "",
         "digits": 18,
         "contract": "0x422866a8F0b032c5cf1DfBDEf31A20F4509562b0",
@@ -61,7 +61,7 @@
         "allowanceWarn": 5
     },
     {
-        "symbol": "ATN",
+        "token": "ATN",
         "name": "",
         "digits": 18,
         "contract": "0x960b236A07cf122663c4303350609A66A7B288C0",
@@ -71,7 +71,7 @@
         "allowanceWarn": 5
     },
     {
-        "symbol": "DICE",
+        "token": "DICE",
         "name": "",
         "digits": 18,
         "contract": "0x2e071D2966Aa7D8dECB1005885bA1977D6038A65",
@@ -109,55 +109,55 @@
     }],
     "markets": [
     {
-        "tokens": "LRC",
+        "tokenx": "LRC",
         "tokensPrecision": 8,
         "tokensMin": 0.1,
-        "tokenb": "WETH",
+        "tokeny": "WETH",
         "tokenbPrecision": 8,
         "pricePrecision": 8,
         "tokenbMin": 0.1
     },
     {
-        "tokens": "1ST",
+        "tokenx": "1ST",
         "tokensPrecision": 8,
         "tokensMin": 0.1,
-        "tokenb": "WETH",
+        "tokeny": "WETH",
         "tokenbPrecision": 8,
         "pricePrecision": 8,
         "tokenbMin": 0.1
     },
     {
-        "tokens": "ATN",
+        "tokenx": "ATN",
         "tokensPrecision": 8,
         "tokensMin": 0.1,
-        "tokenb": "WETH",
+        "tokeny": "WETH",
         "tokenbPrecision": 8,
         "pricePrecision": 8,
         "tokenbMin": 0.1
     },
     {
-        "tokens": "1ST",
+        "tokenx": "1ST",
         "tokensPrecision": 8,
         "tokensMin": 0.1,
-        "tokenb": "WETH",
+        "tokeny": "WETH",
         "tokenbPrecision": 8,
         "pricePrecision": 8,
         "tokenbMin": 0.1
     },
     {
-        "tokens": "DICE",
+        "tokenx": "DICE",
         "tokensPrecision": 8,
         "tokensMin": 0.1,
-        "tokenb": "WETH",
+        "tokeny": "WETH",
         "tokenbPrecision": 8,
         "pricePrecision": 8,
         "tokenbMin": 0.1
     },
     {
-        "tokens": "ZRX",
+        "tokenx": "ZRX",
         "tokensPrecision": 8,
         "tokensMin": 0.1,
-        "tokenb": "WETH",
+        "tokeny": "WETH",
         "tokenbPrecision": 8,
         "pricePrecision": 8,
         "tokenbMin": 0.1
