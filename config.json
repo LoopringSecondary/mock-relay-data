@@ -1,4 +1,7 @@
 {
+
+    "defaultPricePrecision": 8,
+    "defaultVolumePrecision": 8,
     "tokens": [
     {
         "token": "ETH",
