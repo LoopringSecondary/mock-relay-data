@@ -27,7 +27,7 @@
         "fillAmountB" : "3000000000",
         "feeLrc": "100000",
         "marginSplit": "456",
-        "marginSplitToken": "EOS",
+        "marginSplitToken": "ADST",
         "ringIndex": 2,
         "timestamp": 1508211775
       }
