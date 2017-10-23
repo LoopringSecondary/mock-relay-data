@@ -4,22 +4,32 @@
   "result": {
     "data" : [
       {
-        "txHash" : "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-        "tokenS": "0xAf30D2a7E90d7DC361c8C4585e9BB7D2F6f15bc7",
-        "tokenB": "0xef68e7c694f40c8202821edf525de3782458639f",
-        "fillAmountS" : 20,
-        "fillAmountB" : 30.21,
-        "fee": 1,
-        "ringIndex": 1
+        "ringHash": "Ring39f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
+        "orderHash": "Order39f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
+        "txHash" : "Transaction39f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
+        "tokenS": "LRC",
+        "tokenB": "ADST",
+        "fillAmountS" : "200000000",
+        "fillAmountB" : "3000000000",
+        "feeLrc": "-100000",
+        "marginSplit": "123",
+        "marginSplitToken": "LRC",
+        "ringIndex": 1,
+        "timestamp": 1508211775
       },
       {
-        "txHash" : "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-        "tokenS": "0xef68e7c694f40c8202821edf525de3782458639f",
-        "tokenB": "0xAf30D2a7E90d7DC361c8C4585e9BB7D2F6f15bc7",
-        "fillAmountS" : 20,
-        "fillAmountB" : 30.21,
-        "fee": 1,
-        "ringIndex": 2
+        "ringHash": "Ring39f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
+        "orderHash": "Order39f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
+        "txHash" : "Transaction39f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
+        "tokenS": "ADST",
+        "tokenB": "LRC",
+        "fillAmountS" : "200000000",
+        "fillAmountB" : "3000000000",
+        "feeLrc": "100000",
+        "marginSplit": "456",
+        "marginSplitToken": "EOS",
+        "ringIndex": 2,
+        "timestamp": 1508211775
       }
     ],
     "pageIndex" : 1,
