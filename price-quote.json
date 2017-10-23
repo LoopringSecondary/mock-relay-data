@@ -1,0 +1,43 @@
+{
+    "id": 64,
+    "jsonrpc": "2.0",
+    "result":
+    {
+        "fiat": "USD",
+        "tokens": [
+            {
+                "token": "ETH",
+                "price": 31022.12
+            },
+            {
+                "token": "WETH",
+                "price": 31022.12
+            },
+            {
+                "token": "LRC",
+                "price": 31022.12
+            },
+            {
+                "token": "ZRX",
+                "price": 31022.12
+            },
+            {
+                "token": "1ST",
+                "price": 31022.12
+            },
+            {
+                "token": "ADST",
+                "price": 31022.12
+            },
+            {
+                "token": "ATN",
+                "price": 31022.12
+            },
+            {
+                "token": "DICE",
+                "price": 31022.12
+            }
+
+        ]
+    }
+}
