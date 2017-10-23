@@ -1,4 +1,5 @@
 {
+    "market": "LRC-WETH",
     "bids": [
     {
         "price": 999,

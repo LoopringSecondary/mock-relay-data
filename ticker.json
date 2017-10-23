@@ -2,7 +2,7 @@
   "id":64,
   "jsonrpc": "2.0",
   "result": {
-    "market": "LRC/ETH",
+    "market": "LRC-WETH",
     "change": 7.0,
     "high" : 30384.2,
     "low" : 18283.2,

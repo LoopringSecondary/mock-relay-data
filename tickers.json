@@ -3,7 +3,7 @@
   "jsonrpc": "2.0",
   "result": [
     {
-      "market": "LRC/ETH",
+      "market": "LRC-WETH",
       "change": 7.0,
       "high" : 30384.2,
       "low" : 18283.2,
@@ -14,7 +14,7 @@
       "ts" : 1506014710000
     },
     {
-      "market": "EOS/ETH",
+      "market": "EOS-WETH",
       "change": 13.1,
       "high" : 31384.6,
       "low" : 17283.2,
@@ -25,7 +25,7 @@
       "ts" : 1506014710000
     },
     {
-      "market": "1ST/ETH",
+      "market": "1ST-WETH",
       "change": -1.0,
       "high" : 32384.1,
       "low" : 16283.2,
@@ -36,7 +36,7 @@
       "ts" : 1506014710000
     },
     {
-      "market": "ADST/ETH",
+      "market": "ADST-WETH",
       "change": 1.4,
       "high" : 33384.8,
       "low" : 15283.2,
@@ -47,7 +47,7 @@
       "ts" : 1506014710000
     },
     {
-      "market": "ADX/ETH",
+      "market": "ADX-WETH",
       "change": 2.3,
       "high" : 34384.0,
       "low" : 14283.2,
@@ -58,7 +58,7 @@
       "ts" : 1506014710000
     },
     {
-      "market": "BAT/ETH",
+      "market": "BAT-WETH",
       "change": 11.0,
       "high" : 30384.2,
       "low" : 18283.2,
@@ -69,7 +69,7 @@
       "ts" : 1506014710000
     },
     {
-      "market": "BCDN/ETH",
+      "market": "BCDN-WETH",
       "change": -7.0,
       "high" : 31384.6,
       "low" : 17283.2,
@@ -80,7 +80,7 @@
       "ts" : 1506014710000
     },
     {
-      "market": "CRB/ETH",
+      "market": "CRB-WETH",
       "change": 15.1,
       "high" : 32384.1,
       "low" : 16283.2,
@@ -91,7 +91,7 @@
       "ts" : 1506014710000
     },
     {
-      "market": "CryptoCarbon/ETH",
+      "market": "CryptoCarbon-WETH",
       "change": -0.5,
       "high" : 33384.8,
       "low" : 15283.2,
@@ -102,7 +102,7 @@
       "ts" : 1506014710000
     },
     {
-      "market": "CFI/ETH",
+      "market": "CFI-WETH",
       "change": 1.1,
       "high" : 34384.0,
       "low" : 14283.2,
@@ -113,7 +113,7 @@
       "ts" : 1506014710000
     },
     {
-      "market": "DGX 1.0/ETH",
+      "market": "DGX 1.0-WETH",
       "change": 9.0,
       "high" : 30384.2,
       "low" : 18283.2,
@@ -124,7 +124,7 @@
       "ts" : 1506014710000
     },
     {
-      "market": "DICE/ETH",
+      "market": "DICE-WETH",
       "change": 3.5,
       "high" : 31384.6,
       "low" : 17283.2,
@@ -135,7 +135,7 @@
       "ts" : 1506014710000
     },
     {
-      "market": "EMV/ETH",
+      "market": "EMV-WETH",
       "change": -14.0,
       "high" : 32384.1,
       "low" : 16283.2,
@@ -146,7 +146,7 @@
       "ts" : 1506014710000
     },
     {
-      "market": "EDG/ETH",
+      "market": "EDG-WETH",
       "change": -32.0,
       "high" : 33384.8,
       "low" : 15283.2,
@@ -157,7 +157,7 @@
       "ts" : 1506014710000
     },
     {
-      "market": "FUN/ETH",
+      "market": "FUN-WETH",
       "change": -12.0,
       "high" : 34384.0,
       "low" : 14283.2,
@@ -168,7 +168,7 @@
       "ts" : 1506014710000
     },
     {
-      "market": "GNO/ETH",
+      "market": "GNO-WETH",
       "change": 0.6,
       "high" : 30384.2,
       "low" : 18283.2,
@@ -179,7 +179,7 @@
       "ts" : 1506014710000
     },
     {
-      "market": "GUP/ETH",
+      "market": "GUP-WETH",
       "change": -0.1,
       "high" : 31384.6,
       "low" : 17283.2,
@@ -190,7 +190,7 @@
       "ts" : 1506014710000
     },
     {
-      "market": "HKG/ETH",
+      "market": "HKG-WETH",
       "change": 2.0,
       "high" : 32384.1,
       "low" : 16283.2,
@@ -201,7 +201,7 @@
       "ts" : 1506014710000
     },
     {
-      "market": "ICN/ETH",
+      "market": "ICN-WETH",
       "change": 1.8,
       "high" : 33384.8,
       "low" : 15283.2,
@@ -212,7 +212,7 @@
       "ts" : 1506014710000
     },
     {
-      "market": "PAY/ETH",
+      "market": "PAY-WETH",
       "change": 2.0,
       "high" : 34384.0,
       "low" : 14283.2,
