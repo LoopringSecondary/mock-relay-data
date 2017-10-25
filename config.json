@@ -119,12 +119,16 @@
     }],
     "relays": [
     {
-        "value": "//relay1.loopring.io",
+        "value": "//raw.githubusercontent.com",
         "label": "Default Looper Relay"
     },
     {
         "value": "//relay2.loopring.io",
         "label": "Backup Looper Relay"
+    },
+    {
+        "value": "//127.0.0.1:8081",
+        "label": "Local Relay"
     }],
     "markets": [
     {

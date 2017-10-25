@@ -5,6 +5,7 @@
      "data" : [
        {
         "ringhash" : "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
+        "tradeAmount" : 2,
         "miner" : "0x8888f1f195afa192cfee860698584c030f4c9db1",
         "feeRecepient" : "0x8888f1f195afa192cfee860698584c030f4c9db1",
          "transactionHash":"0x8862c0b0886d019bad1fc00581c79b187121e4aee62de4b7b074422db4b6a555",
@@ -25,6 +26,7 @@
        },
        {
          "ringhash" : "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
+         "tradeAmount" : 4,
          "miner" : "0x8888f1f195afa192cfee860698584c030f4c9db1",
          "feeRecepient" : "0x8888f1f195afa192cfee860698584c030f4c9db1",
          "transactionHash":"0x8862c0b0886d019bad1fc00581c79b187121e4aee62de4b7b074422db4b6a555",
@@ -45,6 +47,7 @@
        },
        {
          "ringhash" : "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
+         "tradeAmount" : 6,
          "miner" : "0x8888f1f195afa192cfee860698584c030f4c9db1",
          "feeRecepient" : "0x8888f1f195afa192cfee860698584c030f4c9db1",
          "transactionHash":"0x8862c0b0886d019bad1fc00581c79b187121e4aee62de4b7b074422db4b6a555",
