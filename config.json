@@ -123,7 +123,7 @@
         "label": "Default Looper Relay"
     },
     {
-        "value": "//relay2.loopring.io",
+        "value": "//raw.githubusercontent.com",
         "label": "Backup Looper Relay"
     },
     {
