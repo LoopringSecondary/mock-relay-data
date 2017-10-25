@@ -119,11 +119,11 @@
     }],
     "relays": [
     {
-        "value": "//relay1.loopring.io",
+        "value": "https://raw.githubusercontent.com/Loopring/mock-relay-data/master/",
         "label": "Default Looper Relay"
     },
     {
-        "value": "//relay2.loopring.io",
+        "value": "https://raw.githubusercontent.com/Loopring/mock-relay-data/master/,
         "label": "Backup Looper Relay"
     }],
     "markets": [
