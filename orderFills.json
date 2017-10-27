@@ -5,6 +5,7 @@
     "data" : [
       {
         "ringHash": "Ring39f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
+        "blockNum": 123,
         "orderHash": "Order39f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
         "txHash" : "Transaction39f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
         "tokenS": "LRC",
@@ -19,6 +20,7 @@
       },
       {
         "ringHash": "Ring39f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
+        "blockNum": 456,
         "orderHash": "Order39f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
         "txHash" : "Transaction39f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
         "tokenS": "ADST",
