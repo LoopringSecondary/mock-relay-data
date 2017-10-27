@@ -10,6 +10,7 @@
         "feeRecepient" : "0x8888f1f195afa192cfee860698584c030f4c9db1",
          "transactionHash":"0x8862c0b0886d019bad1fc00581c79b187121e4aee62de4b7b074422db4b6a555",
          "blockNum":"0x42afe2",
+         "totalLrcFee": 100,
          "timestamp": 1506114710,
         "orders" : [
           {
@@ -31,6 +32,7 @@
          "feeRecepient" : "0x8888f1f195afa192cfee860698584c030f4c9db1",
          "transactionHash":"0x8862c0b0886d019bad1fc00581c79b187121e4aee62de4b7b074422db4b6a555",
          "blockNum":"0x42afe2",
+         "totalLrcFee": 200,
          "timestamp": 1506014710,
          "orders" : [
            {
@@ -52,6 +54,7 @@
          "feeRecepient" : "0x8888f1f195afa192cfee860698584c030f4c9db1",
          "transactionHash":"0x8862c0b0886d019bad1fc00581c79b187121e4aee62de4b7b074422db4b6a555",
          "blockNum":"0x42afe2",
+         "totalLrcFee": 100,
          "timestamp": 1506010710,
          "orders" : [
            {
