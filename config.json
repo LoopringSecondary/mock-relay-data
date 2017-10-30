@@ -3,6 +3,7 @@
     "defaultPricePrecision": 8,
     "defaultVolumePrecision": 8,
     "contractAddress": "0x2956356cd2a2bf3202f771f513d14a367b48070",
+    "defaultLrcFeePermillage": 2,
     "tokens": [
     {
         "token": "ETH",
