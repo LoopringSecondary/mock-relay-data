@@ -121,6 +121,10 @@
     }],
     "relays": [
     {
+        "value": "http://127.0.0.1:8545",
+        "label": "LocalHost Relay"
+    },
+    {
         "value": "//raw.githubusercontent.com",
         "label": "Default Looper Relay"
     },
