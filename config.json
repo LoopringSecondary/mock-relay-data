@@ -2,7 +2,7 @@
 
     "defaultPricePrecision": 8,
     "defaultVolumePrecision": 8,
-    "contractAddress": "0x2956356cd2a2bf3202f771f513d14a367b48070",
+    "contractAddress": "0x5e99aA4bfE902aC32f7036d859175D0892368148",
     "defaultLrcFeePermillage": 2,
     "tokens": [
     {
