@@ -37,6 +37,6 @@
     "pageIndex" : 1,
     "pageSize" : 20,
     "total" : 1,
-    "version":"0.0.1"
+    "contractVersion":"0.0.1"
   }
 }

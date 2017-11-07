@@ -3,7 +3,7 @@
     "jsonrpc": "2.0",
     "result":
     {
-
+        "contractVersion":"0.0.1",
         "tokens": [
             {
                 "token": "ETH",

@@ -2,7 +2,7 @@
   "id": 64,
   "jsonrpc": "2.0",
   "result": {
-    "version": "0.0.1",
+    "contractVersion": "0.0.1",
     "data": {
       "orginalOrder": {
         "owner": "0x847983c3a34afa192cfee860698584c030f4c9db1",
