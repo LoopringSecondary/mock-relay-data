@@ -2,6 +2,7 @@
   "id": 64,
   "jsonrpc": "2.0",
   "result": {
+    "version": "0.0.1",
     "data": [
       {
         "orginalOrder": {

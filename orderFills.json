@@ -36,6 +36,7 @@
     ],
     "pageIndex" : 1,
     "pageSize" : 20,
-    "total" : 1
+    "total" : 1,
+    "version":"0.0.1"
   }
 }
