@@ -14,7 +14,7 @@
         "ttl": "0xd2f00",
         "salt": "0x1",
         "lrcFee": "0x5",
-        "buyNoMoreThanAmountB": true,
+        "buyNoMoreThanAmountB": false,
         "savingSharePercentage": "0x32",
         "ts": "0x59ccbe14"
       },
