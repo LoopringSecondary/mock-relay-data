@@ -15,7 +15,7 @@
           "ttl": "0xd2f00",
           "salt": "0x1",
           "lrcFee": "0x5",
-          "buyNoMoreThanAmountB": true,
+          "buyNoMoreThanAmountB": false,
           "marginSplitPercentage": "0x32",
           "v": "0x1c",
           "r": "37d465800e7b22b533d7be15b4034a67a31dff77c076ff8a4ba54aa26f4fddf2",
