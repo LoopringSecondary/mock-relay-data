@@ -1,0 +1,190 @@
+{
+    "defaultPricePrecision":8,
+    "defaultVolumePrecision":8,
+    "defaultLrcFeePermillage":2,
+    "defaultGasPrice":21,
+    "defaultMarginSplitPercentage":50,
+    "defaultGasLimit":21000,
+    "contracts": [
+        {
+            "address": "0x4c44d51cf0d35172fce9d69e2beac728de980e9d",
+            "version": "0.0.1"
+        },
+        {
+            "address": "0x4c44d51cf0d35172fce9d69e2beac728de980e9d",
+            "version": "0.0.2"
+        }
+    ],
+    "tokens": [
+        {
+            "token": "ETH",
+            "name": "Ether",
+            "digits": 18,
+            "address": "0x2956356cd2a2bf3202f771f513d14a367b48070",
+            "unit": "ETH",
+            "website": "https://ethereum.org",
+            "allowance": 1000,
+            "allowanceWarn": 500,
+            "precision": 6,
+            "minTradeValue": 0.001
+        },
+        {
+            "token": "WETH",
+            "name": "Ether Token",
+            "digits": 18,
+            "address": "0x2956356cd2a2bf3202f771f50d3d14a367b48070",
+            "unit": "WETH",
+            "website": "https://weth.io",
+            "allowance": 1000,
+            "allowanceWarn": 100,
+            "precision": 6,
+            "minTradeValue": 0.001
+        },
+        {
+            "token": "LRC",
+            "name": "Loopring Token",
+            "digits": 18,
+            "address": "0xEF68e7C694F40c8202821eDF525dE3782458639f",
+            "unit": "LRC",
+            "website": "https://loopring.org",
+            "allowance": 1000,
+            "allowanceWarn": 50,
+            "precision": 6,
+            "minTradeValue": 0.001
+        },
+        {
+            "token": "ZRX",
+            "name": "0x Token",
+            "digits": 18,
+            "address": "rueoafdsafjdsafj",
+            "unit": "ZRX",
+            "website": "https://0xproject.org",
+            "allowance": 1000,
+            "allowanceWarn": 5,
+            "precision": 6,
+            "minTradeValue": 0.001
+        },
+        {
+            "token": "1ST",
+            "name": "",
+            "digits": 18,
+            "address": "0xAf30D2a7E90d7DC44585e9BB7D2F6f15bc7",
+            "unit": "1ST",
+            "website": "",
+            "allowance": 1000,
+            "allowanceWarn": 5,
+            "precision": 6,
+            "minTradeValue": 0.001
+        },
+        {
+            "token": "ADST",
+            "name": "",
+            "digits": 18,
+            "address": "0x422866a8F0b032c5c51DfBDEf31A20F4509562b0",
+            "unit": "ADST",
+            "website": "",
+            "allowance": 1000,
+            "allowanceWarn": 5,
+            "precision": 6,
+            "minTradeValue": 0.001
+        },
+        {
+            "token": "ATN",
+            "name": "",
+            "digits": 18,
+            "address": "0x960b236A073122663c4303350609A66A7B288C0",
+            "unit": "ANT",
+            "website": "",
+            "allowance": 1000,
+            "allowanceWarn": 5,
+            "precision": 6,
+            "minTradeValue": 0.001
+        },
+        {
+            "token": "DICE",
+            "name": "",
+            "digits": 18,
+            "address": "0x2e071D2966Aa7D8dECB1005885bA197D6038A65",
+            "unit": "DICE",
+            "website": "",
+            "allowance": 1000,
+            "allowanceWarn": 5,
+            "precision": 6,
+            "minTradeValue": 0.001
+        }
+    ],
+    "langs": [
+        {
+            "value": "en",
+            "label": "English"
+        },
+        {
+            "value": "zh",
+            "label": "中文"
+        }
+    ],
+    "fiat": [
+        {
+            "value": "usd",
+            "label": "USD"
+        },
+        {
+            "value": "cny",
+            "label": "CNY"
+        }
+    ],
+    "relays": [
+        {
+            "value": "https://raw.githubusercontent.com",
+            "label": "Default Loopring Relay"
+        },
+        {
+            "value": "https://raw.githubusercontent.com",
+            "label": "Backup Loopring Relay"
+        },
+        {
+            "value": "//127.0.0.1:8081",
+            "label": "Local Relay"
+        },
+        {
+            "value": "http://127.0.0.1:8545",
+            "label": "LocalHost Relay"
+        }
+    ],
+    "markets": [
+        {
+            "tokenx": "LRC",
+            "tokeny": "WETH",
+            "pricePrecision": 8
+        },
+        {
+            "tokenx": "1ST",
+            "tokeny": "WETH",
+            "pricePrecision": 8
+        },
+        {
+            "tokenx": "ATN",
+            "tokeny": "WETH",
+            "pricePrecision": 8
+        },
+        {
+            "tokenx": "ADST",
+            "tokeny": "WETH",
+            "pricePrecision": 8
+        },
+        {
+            "tokenx": "DICE",
+            "tokeny": "WETH",
+            "pricePrecision": 8
+        },
+        {
+            "tokenx": "ZRX",
+            "tokeny": "WETH",
+            "pricePrecision": 8
+        }
+    ],
+    "whiteList": [
+        "0x4c44d51cf0d35172fce9d69e2beac728de980e9d",
+        "0xec28569d3FD03Ac0Eb2157DBeC81a3665cb3D32d"
+    ]
+}
