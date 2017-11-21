@@ -373,6 +373,91 @@
             "tokenx": "ZRX",
             "tokeny": "WETH",
             "pricePrecision": 8
+        },
+        {
+            "tokenx": "EOS",
+            "tokeny": "WETH",
+            "pricePrecision": 8
+        },
+        {
+            "tokenx": "BAT",
+            "tokeny": "WETH",
+            "pricePrecision": 8
+        },
+        {
+            "tokenx": "ADX",
+            "tokeny": "WETH",
+            "pricePrecision": 8
+        },
+        {
+            "tokenx": "BCDN",
+            "tokeny": "WETH",
+            "pricePrecision": 8
+        },
+        {
+            "tokenx": "CRB",
+            "tokeny": "WETH",
+            "pricePrecision": 8
+        },
+        {
+            "tokenx": "CryptoCarbon",
+            "tokeny": "WETH",
+            "pricePrecision": 8
+        },
+        {
+            "tokenx": "CFI",
+            "tokeny": "WETH",
+            "pricePrecision": 8
+        },
+        {
+            "tokenx": "DGX 1.0",
+            "tokeny": "WETH",
+            "pricePrecision": 8
+        },
+        {
+            "tokenx": "DICE",
+            "tokeny": "WETH",
+            "pricePrecision": 8
+        },
+        {
+            "tokenx": "EMV",
+            "tokeny": "WETH",
+            "pricePrecision": 8
+        },
+        {
+            "tokenx": "EDG",
+            "tokeny": "WETH",
+            "pricePrecision": 8
+        },
+        {
+            "tokenx": "FUN",
+            "tokeny": "WETH",
+            "pricePrecision": 8
+        },
+        {
+            "tokenx": "GNO",
+            "tokeny": "WETH",
+            "pricePrecision": 8
+        },
+        {
+            "tokenx": "GUP",
+            "tokeny": "WETH",
+            "pricePrecision": 8
+        },
+        {
+            "tokenx": "HKG",
+            "tokeny": "WETH",
+            "pricePrecision": 8
+        },
+        {
+            "tokenx": "ICN",
+            "tokeny": "WETH",
+            "pricePrecision": 8
+        },
+        {
+            "tokenx": "PAY",
+            "tokeny": "WETH",
+            "pricePrecision": 8
         }
     ],
     "whiteList": [
