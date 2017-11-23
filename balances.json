@@ -4,6 +4,7 @@
     "result":
     {
         "contractVersion":"0.0.1",
+        "nonce": 1,
         "tokens": [
             {
                 "token": "ETH",
@@ -36,7 +37,7 @@
                 "allowance": "9567456222"
             },
             {
-                "token": "ATN",
+                "token": "ANT",
                 "balance": "99900000000000000000000",
                 "allowance": "0"
             },
