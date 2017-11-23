@@ -7,8 +7,8 @@
         "orginalOrder": {
           "hash": "0x37d465800e7b22b533d7be15b4034a67a31dff77c076ff8a4ba54aa26f4fddf2",
           "address": "0xD091341B21758C34AedC95FD27699197dA71b782",
-          "tokenS": "Eth",
-          "tokenB": "Lrc",
+          "tokenS": "WETH",
+          "tokenB": "LRC",
           "amountS": "0x56ff12e967bae0000",
           "amountB": "0x20f5b1eaad8d800000",
           "timestamp": "0x59dee032",
@@ -50,8 +50,8 @@
         "orginalOrder": {
           "hash": "0x37d465800e7b22b533d7be15b4034a67a31dff77c076ff8a4ba54aa26f4fddf2",
           "address": "0xD091341B21758C34AedC95FD27699197dA71b782",
-          "tokenS": "Eth",
-          "tokenB": "Lrc",
+          "tokenS": "WETH",
+          "tokenB": "LRC",
           "amountS": "0x56ff12e967bae0000",
           "amountB": "0x32cd1ec90f91160000000",
           "timestamp": "0x59dee032",
@@ -93,8 +93,8 @@
         "orginalOrder": {
           "hash": "0x37d465800e7b22b533d7be15b4034a67a31dff77c076ff8a4ba54aa26f4fddf2",
           "address": "0xD091341B21758C34AedC95FD27699197dA71b782",
-          "tokenS": "Eth",
-          "tokenB": "Lrc",
+          "tokenS": "WETH",
+          "tokenB": "LRC",
           "amountS": "0x56ff12e967bae0000",
           "amountB": "0x32cd1ec90f91160000000",
           "timestamp": "0x59dee032",
@@ -136,8 +136,8 @@
         "orginalOrder": {
           "hash": "0x37d465800e7b22b533d7be15b4034a67a31dff77c076ff8a4ba54aa26f4fddf2",
           "address": "0xD091341B21758C34AedC95FD27699197dA71b782",
-          "tokenS": "lrc",
-          "tokenB": "eth",
+          "tokenS": "LRC",
+          "tokenB": "WETH",
           "amountS": "0x6046f37e5945c0000",
           "amountB": "0xc08de6fcb28b80000",
           "timestamp": "0x59dee032",
