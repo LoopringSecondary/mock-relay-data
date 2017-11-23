@@ -114,7 +114,7 @@
         },
         {
             "token": "BAT",
-            "name": "",
+            "name": "BAT",
             "digits": 18,
             "address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
             "unit": "BAT",
