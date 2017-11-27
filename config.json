@@ -7,7 +7,7 @@
     "defaultGasLimit":21000,
     "contracts": [
         {
-            "address": "0x4c44d51cf0d35172fce9d69e2beac728de980e9d",
+            "address": "0x02a544b97709c764140b93b9e56d6ff88332c736",
             "version": "0.0.1"
         },
         {
