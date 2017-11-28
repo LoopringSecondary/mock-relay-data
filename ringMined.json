@@ -11,19 +11,7 @@
         "transactionHash": "0x8862c0b0886d019bad1fc00581c79b187121e4aee62de4b7b074422db4b6a555",
         "blockNum": "0x42afe2",
         "totalLrcFee": 100,
-        "timestamp": 1506114710,
-        "orders": [
-          {
-            "orderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "blockNumber": 2345223,
-            "prevOrderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "nextOrderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "amountS": 34.2,
-            "amountB": 38.1,
-            "lrcReward": 0.2,
-            "lrcFee": 0.31
-          }
-        ]
+        "timestamp": 1506114710
       },
       {
         "ringhash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
@@ -33,19 +21,7 @@
         "transactionHash": "0x8862c0b0886d019bad1fc00581c79b187121e4aee62de4b7b074422db4b6a555",
         "blockNum": "0x42afe2",
         "totalLrcFee": 200,
-        "timestamp": 1506014710,
-        "orders": [
-          {
-            "orderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "blockNumber": 2345223,
-            "prevOrderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "nextOrderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "amountS": 123.2,
-            "amountB": 64.1,
-            "lrcReward": 0.2,
-            "lrcFee": 0.31
-          }
-        ]
+        "timestamp": 1506014710
       },
       {
         "ringhash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
@@ -55,19 +31,7 @@
         "transactionHash": "0x8862c0b0886d019bad1fc00581c79b187121e4aee62de4b7b074422db4b6a555",
         "blockNum": "0x42afe2",
         "totalLrcFee": 100,
-        "timestamp": 1506010710,
-        "orders": [
-          {
-            "orderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "blockNumber": 2345223,
-            "prevOrderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "nextOrderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "amountS": 876.2,
-            "amountB": 8.1,
-            "lrcReward": 0.2,
-            "lrcFee": 0.31
-          }
-        ]
+        "timestamp": 1506010710
       },
       {
         "ringhash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
@@ -77,19 +41,7 @@
         "transactionHash": "0x8862c0b0886d019bad1fc00581c79b187121e4aee62de4b7b074422db4b6a555",
         "blockNum": "0x42afe2",
         "totalLrcFee": 100,
-        "timestamp": 1506010710,
-        "orders": [
-          {
-            "orderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "blockNumber": 2345223,
-            "prevOrderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "nextOrderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "amountS": 876.2,
-            "amountB": 8.1,
-            "lrcReward": 0.2,
-            "lrcFee": 0.31
-          }
-        ]
+        "timestamp": 1506010710
       },
       {
         "ringhash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
@@ -99,19 +51,7 @@
         "transactionHash": "0x8862c0b0886d019bad1fc00581c79b187121e4aee62de4b7b074422db4b6a555",
         "blockNum": "0x42afe2",
         "totalLrcFee": 100,
-        "timestamp": 1506010710,
-        "orders": [
-          {
-            "orderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "blockNumber": 2345223,
-            "prevOrderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "nextOrderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "amountS": 876.2,
-            "amountB": 8.1,
-            "lrcReward": 0.2,
-            "lrcFee": 0.31
-          }
-        ]
+        "timestamp": 1506010710
       },
       {
         "ringhash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
@@ -121,19 +61,7 @@
         "transactionHash": "0x8862c0b0886d019bad1fc00581c79b187121e4aee62de4b7b074422db4b6a555",
         "blockNum": "0x42afe2",
         "totalLrcFee": 100,
-        "timestamp": 1506010710,
-        "orders": [
-          {
-            "orderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "blockNumber": 2345223,
-            "prevOrderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "nextOrderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "amountS": 876.2,
-            "amountB": 8.1,
-            "lrcReward": 0.2,
-            "lrcFee": 0.31
-          }
-        ]
+        "timestamp": 1506010710
       },
       {
         "ringhash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
@@ -143,19 +71,7 @@
         "transactionHash": "0x8862c0b0886d019bad1fc00581c79b187121e4aee62de4b7b074422db4b6a555",
         "blockNum": "0x42afe2",
         "totalLrcFee": 100,
-        "timestamp": 1506010710,
-        "orders": [
-          {
-            "orderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "blockNumber": 2345223,
-            "prevOrderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "nextOrderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "amountS": 876.2,
-            "amountB": 8.1,
-            "lrcReward": 0.2,
-            "lrcFee": 0.31
-          }
-        ]
+        "timestamp": 1506010710
       },
       {
         "ringhash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
@@ -165,19 +81,7 @@
         "transactionHash": "0x8862c0b0886d019bad1fc00581c79b187121e4aee62de4b7b074422db4b6a555",
         "blockNum": "0x42afe2",
         "totalLrcFee": 100,
-        "timestamp": 1506010710,
-        "orders": [
-          {
-            "orderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "blockNumber": 2345223,
-            "prevOrderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "nextOrderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "amountS": 876.2,
-            "amountB": 8.1,
-            "lrcReward": 0.2,
-            "lrcFee": 0.31
-          }
-        ]
+        "timestamp": 1506010710
       },
       {
         "ringhash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
@@ -187,19 +91,7 @@
         "transactionHash": "0x8862c0b0886d019bad1fc00581c79b187121e4aee62de4b7b074422db4b6a555",
         "blockNum": "0x42afe2",
         "totalLrcFee": 100,
-        "timestamp": 1506010710,
-        "orders": [
-          {
-            "orderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "blockNumber": 2345223,
-            "prevOrderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "nextOrderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "amountS": 876.2,
-            "amountB": 8.1,
-            "lrcReward": 0.2,
-            "lrcFee": 0.31
-          }
-        ]
+        "timestamp": 1506010710
       },
       {
         "ringhash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
@@ -209,19 +101,7 @@
         "transactionHash": "0x8862c0b0886d019bad1fc00581c79b187121e4aee62de4b7b074422db4b6a555",
         "blockNum": "0x42afe2",
         "totalLrcFee": 100,
-        "timestamp": 1506010710,
-        "orders": [
-          {
-            "orderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "blockNumber": 2345223,
-            "prevOrderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "nextOrderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "amountS": 876.2,
-            "amountB": 8.1,
-            "lrcReward": 0.2,
-            "lrcFee": 0.31
-          }
-        ]
+        "timestamp": 1506010710
       },
       {
         "ringhash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
@@ -231,19 +111,7 @@
         "transactionHash": "0x8862c0b0886d019bad1fc00581c79b187121e4aee62de4b7b074422db4b6a555",
         "blockNum": "0x42afe2",
         "totalLrcFee": 100,
-        "timestamp": 1506010710,
-        "orders": [
-          {
-            "orderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "blockNumber": 2345223,
-            "prevOrderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "nextOrderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "amountS": 876.2,
-            "amountB": 8.1,
-            "lrcReward": 0.2,
-            "lrcFee": 0.31
-          }
-        ]
+        "timestamp": 1506010710
       },
       {
         "ringhash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
@@ -253,19 +121,7 @@
         "transactionHash": "0x8862c0b0886d019bad1fc00581c79b187121e4aee62de4b7b074422db4b6a555",
         "blockNum": "0x42afe2",
         "totalLrcFee": 100,
-        "timestamp": 1506010710,
-        "orders": [
-          {
-            "orderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "blockNumber": 2345223,
-            "prevOrderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "nextOrderHash": "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238",
-            "amountS": 876.2,
-            "amountB": 8.1,
-            "lrcReward": 0.2,
-            "lrcFee": 0.31
-          }
-        ]
+        "timestamp": 1506010710
       }
     ],
     "total": 12,
