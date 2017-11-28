@@ -58,7 +58,7 @@
           "ttl": "0xd2f00",
           "salt": "0x1",
           "lrcFee": "0x5",
-          "buyNoMoreThanAmountB": true,
+          "buyNoMoreThanAmountB": false,
           "marginSplitPercentage": "0x32",
           "v": "0x1c",
           "r": "37d465800e7b22b533d7be15b4034a67a31dff77c076ff8a4ba54aa26f4fddf2",
@@ -68,7 +68,7 @@
         "status": "PartiallyExecuted",
         "totalDealedAmountS": "0x1a055690d9db80000",
         "totalDealedAmountB": "0x636281068fe20000000",
-        "totalCancelledAmountS": "0x636281068fe200000",
+        "totalCancelledAmountS": "0x0",
         "matchList": {
           "total": 2,
           "pageIndex": 1,
@@ -110,8 +110,8 @@
         },
         "status": "PartiallyExecuted",
         "totalDealedAmountS": "0x1a055690d9db80000",
-        "totalDealedAmountB": "0x636281068fe20000000",
-        "totalCancelledAmountS": "0x636281068fe200000",
+        "totalDealedAmountB": "0x3e1d90a419ed40000000",
+        "totalCancelledAmountS": "0x0",
         "matchList": {
           "total": 2,
           "pageIndex": 1,
@@ -153,7 +153,7 @@
         },
         "status": "PartiallyExecuted",
         "totalDealedAmountS": "0x1a055690d9db80000",
-        "totalDealedAmountB": "0x636281068fe20000000",
+        "totalDealedAmountB": "0xc08de6fcb28b80000",
         "totalCancelledAmountS": "0x0",
         "matchList": {
           "total": 2,
