@@ -22,6 +22,11 @@
                 "allowance": "622000000000000000000"
             },
             {
+                "token": "KNC",
+                "balance": "0",
+                "allowance": "9567456222"
+            },
+            {
                 "token": "ZRX",
                 "balance": "15300000000000000000000",
                 "allowance": "2342424"
@@ -29,6 +34,11 @@
             {
                 "token": "1ST",
                 "balance": "89800000000000000000000",
+                "allowance": "74563"
+            },
+            {
+                "token": "BNT",
+                "balance": "0",
                 "allowance": "74563"
             },
             {
