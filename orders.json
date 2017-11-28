@@ -25,7 +25,7 @@
         "status": "PartiallyExecuted",
         "totalDealedAmountS": "0x1a055690d9db80000",
         "totalDealedAmountB": "0x636281068fe200000",
-        "totalCancelledAmountS": "0x636281068fe200000",
+        "totalCancelledAmountS": "0x3cf9bc588ddf60000",
         "matchList": {
           "total": 2,
           "pageIndex": 1,
@@ -154,7 +154,7 @@
         "status": "PartiallyExecuted",
         "totalDealedAmountS": "0x1a055690d9db80000",
         "totalDealedAmountB": "0x636281068fe20000000",
-        "totalCancelledAmountS": "0x636281068fe200000",
+        "totalCancelledAmountS": "0x0",
         "matchList": {
           "total": 2,
           "pageIndex": 1,
