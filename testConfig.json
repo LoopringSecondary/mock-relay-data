@@ -128,6 +128,44 @@
       "pricePrecision": 8
     }
   ],
+  "langs": [
+        {
+            "value": "en",
+            "label": "English"
+        },
+        {
+            "value": "zh",
+            "label": "中文"
+        }
+    ],
+    "fiat": [
+        {
+            "value": "usd",
+            "label": "USD"
+        },
+        {
+            "value": "cny",
+            "label": "CNY"
+        }
+    ],
+    "relays": [
+        {
+            "value": "https://raw.githubusercontent.com",
+            "label": "Default Loopring Relay"
+        },
+        {
+            "value": "https://raw.githubusercontent.com",
+            "label": "Backup Loopring Relay"
+        },
+        {
+            "value": "//127.0.0.1:8081",
+            "label": "Local Relay"
+        },
+        {
+            "value": "http://127.0.0.1:8545",
+            "label": "LocalHost Relay"
+        }
+    ],
   "whiteList": [
     "0x750aD4351bB728ceC7d639A9511F9D6488f1E259",
     "0xf26988F03a668f2C5422E6f6A05Ed93D65c985Ee",
