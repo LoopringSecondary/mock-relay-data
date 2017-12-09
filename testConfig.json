@@ -69,7 +69,7 @@
       "name": "RDN",
       "digits": 18,
       "address": "0x7599aa3D5B9019cFae7c934f5d42d18891cb3CAf",
-      "unit": "OMG",
+      "unit": "RDN",
       "website": "",
       "allowance": "1000000000000000000000",
       "allowanceWarn": "5000000000000000000",
@@ -93,7 +93,7 @@
       "name": "RCN",
       "digits": 18,
       "address": "0x58Ab00E351097883632b2CA0bEc8FCa2f3be7C16",
-      "unit": "PAY",
+      "unit": "RCN",
       "website": "",
       "allowance": "1000000000000000000000",
       "allowanceWarn": "5000000000000000000",
@@ -150,20 +150,12 @@
     ],
     "relays": [
         {
-            "value": "https://raw.githubusercontent.com",
+            "value": "http://ec2-52-199-80-249.ap-northeast-1.compute.amazonaws.com:8083",
             "label": "Default Loopring Relay"
         },
         {
-            "value": "https://raw.githubusercontent.com",
+            "value": "http://ec2-52-199-80-249.ap-northeast-1.compute.amazonaws.com:8083",
             "label": "Backup Loopring Relay"
-        },
-        {
-            "value": "//127.0.0.1:8081",
-            "label": "Local Relay"
-        },
-        {
-            "value": "http://127.0.0.1:8545",
-            "label": "LocalHost Relay"
         }
     ],
   "whiteList": [
