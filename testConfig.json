@@ -1,0 +1,138 @@
+{
+  "defaultPricePrecision":8,
+  "defaultVolumePrecision":8,
+  "defaultLrcFeePermillage":2,
+  "defaultGasPrice":21,
+  "defaultMarginSplitPercentage":50,
+  "defaultGasLimit":21000,
+  "contracts": [
+    {
+      "address": "0x02a544b97709c764140b93b9e56d6ff88332c736",
+      "version": "v0.0.1"
+    },
+    {
+      "address": "0x4c44d51cf0d35172fce9d69e2beac728de980e9d",
+      "version": "v1.0"
+    }
+  ],
+  "tokens": [
+    {
+      "token": "ETH",
+      "name": "Ether",
+      "digits": 18,
+      "address": "",
+      "unit": "ETH",
+      "website": "https://ethereum.org",
+      "allowance": "1000000000000000000000",
+      "allowanceWarn": "500000000000000000000",
+      "precision": 6,
+      "minTradeValue": 0.001
+    },
+    {
+      "token": "WETH",
+      "name": "Ether Token",
+      "digits": 18,
+      "address": "0x88699e7fee2da0462981a08a15a3b940304cc516",
+      "unit": "WETH",
+      "website": "https://weth.io",
+      "allowance": "1000000000000000000000",
+      "allowanceWarn":"100000000000000000000",
+      "precision": 6,
+      "minTradeValue": 0.001
+    },
+    {
+      "token": "LRC",
+      "name": "Loopring",
+      "digits": 18,
+      "address": "0x98C9D14a894d19a38744d41CD016D89Cf9699a51",
+      "unit": "LRC",
+      "website": "https://loopring.org",
+      "allowance": "1000000000000000000000",
+      "allowanceWarn": "50000000000000000000",
+      "precision": 6,
+      "minTradeValue": 0.001
+    },
+    {
+      "token": "EOS",
+      "name": "EOS",
+      "digits": 18,
+      "address": "0xaA85Ef3E19b3502C72CE1e04FD00fcAa2b9daF85",
+      "unit": "EOS",
+      "website": "https://eos.io/",
+      "allowance": "1000000000000000000000",
+      "allowanceWarn": "5000000000000000000",
+      "precision": 6,
+      "minTradeValue": 0.001
+    },
+    {
+      "token": "RDN",
+      "name": "RDN",
+      "digits": 18,
+      "address": "0x7599aa3D5B9019cFae7c934f5d42d18891cb3CAf",
+      "unit": "OMG",
+      "website": "",
+      "allowance": "1000000000000000000000",
+      "allowanceWarn": "5000000000000000000",
+      "precision": 6,
+      "minTradeValue": 0.001
+    },
+    {
+      "token": "REP",
+      "name": "Augur",
+      "digits": 18,
+      "address": "0xDa54CD1F5c842246887306A83a7Db837214aaD58",
+      "unit": "REP",
+      "website": "",
+      "allowance": "1000000000000000000000",
+      "allowanceWarn": "5000000000000000000",
+      "precision": 6,
+      "minTradeValue": 0.001
+    },
+    {
+      "token": "RCN",
+      "name": "RCN",
+      "digits": 18,
+      "address": "0x58Ab00E351097883632b2CA0bEc8FCa2f3be7C16",
+      "unit": "PAY",
+      "website": "",
+      "allowance": "1000000000000000000000",
+      "allowanceWarn": "5000000000000000000",
+      "precision": 6,
+      "minTradeValue": 0.001
+    }
+  ],
+  "markets": [
+    {
+      "tokenx": "LRC",
+      "tokeny": "WETH",
+      "pricePrecision": 8
+    },
+    {
+      "tokenx": "EOS",
+      "tokeny": "WETH",
+      "pricePrecision": 8
+    },
+    {
+      "tokenx": "RDN",
+      "tokeny": "WETH",
+      "pricePrecision": 8
+    },
+    {
+      "tokenx": "REP",
+      "tokeny": "WETH",
+      "pricePrecision": 8
+    },
+    {
+      "tokenx": "RCN",
+      "tokeny": "WETH",
+      "pricePrecision": 8
+    }
+  ],
+  "whiteList": [
+    "0x750aD4351bB728ceC7d639A9511F9D6488f1E259",
+    "0xf26988F03a668f2C5422E6f6A05Ed93D65c985Ee",
+    "0xB5FAB0B11776AAD5cE60588C16bd59DCfd61a1c2",
+    "0x48ff2269e58a373120FFdBBdEE3FBceA854AC30A",
+    "0x78545edE91c1b5A8a19787f5adBd905C86fCE5eE"
+  ]
+}
