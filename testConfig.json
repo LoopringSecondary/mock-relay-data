@@ -67,7 +67,7 @@
     {
       "token": "RDN",
       "name": "RDN",
-      "digits": 18,
+      "digits": 15,
       "address": "0x7599aa3D5B9019cFae7c934f5d42d18891cb3CAf",
       "unit": "RDN",
       "website": "",
@@ -91,7 +91,7 @@
     {
       "token": "RCN",
       "name": "RCN",
-      "digits": 18,
+      "digits": 15,
       "address": "0x58Ab00E351097883632b2CA0bEc8FCa2f3be7C16",
       "unit": "RCN",
       "website": "",
