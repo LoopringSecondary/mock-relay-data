@@ -5,6 +5,7 @@
     "defaultGasPrice":21,
     "defaultMarginSplitPercentage":50,
     "defaultGasLimit":21000,
+    "delegateAddress":"0x79E3b7c64e2F8bb98CC85eAB6FF9338ae2468984",
     "contracts": [
         {
             "address": "0x02a544b97709c764140b93b9e56d6ff88332c736",
