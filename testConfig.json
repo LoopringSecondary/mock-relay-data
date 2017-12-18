@@ -151,11 +151,11 @@
     ],
     "relays": [
         {
-            "value": "http://ec2-52-199-80-249.ap-northeast-1.compute.amazonaws.com:8083",
+            "value": "//13.112.62.24:8083",
             "label": "Default Loopring Relay"
         },
         {
-            "value": "http://ec2-52-199-80-249.ap-northeast-1.compute.amazonaws.com:8083",
+            "value": "//13.112.62.24:8083",
             "label": "Backup Loopring Relay"
         }
     ],
