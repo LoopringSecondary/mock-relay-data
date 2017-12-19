@@ -853,11 +853,11 @@
     ],
     "relays": [
         {
-            "value": "//relay1.loopring.io",
+            "value": "https://relay1.loopring.io",
             "label": "Default Loopring Relay"
         },
         {
-            "value": "//relay1.loopring.io",
+            "value": "https://relay1.loopring.io",
             "label": "Backup Loopring Relay"
         }
     ],
