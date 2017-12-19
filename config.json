@@ -5,14 +5,10 @@
     "defaultGasPrice":21,
     "defaultMarginSplitPercentage":50,
     "defaultGasLimit":21000,
-    "delegateAddress":"0x79E3b7c64e2F8bb98CC85eAB6FF9338ae2468984",
+    "delegateAddress":"0x450D10A0C61f2b007384128B626F28b757A75e49",
     "contracts": [
         {
-            "address": "0x02a544b97709c764140b93b9e56d6ff88332c736",
-            "version": "v0.0.1"
-        },
-        {
-            "address": "0xc01172a87f6cc20e1e3b9ad13a9e715fbc2d5aa9",
+            "address": "0x03E0F73A93993E5101362656Af1162eD80FB54F2",
             "version": "v1.0"
         }
     ],
@@ -856,20 +852,12 @@
     ],
     "relays": [
         {
-            "value": "https://raw.githubusercontent.com",
+            "value": "//relay1.loopring.io",
             "label": "Default Loopring Relay"
         },
         {
-            "value": "https://raw.githubusercontent.com",
+            "value": "//relay1.loopring.io",
             "label": "Backup Loopring Relay"
-        },
-        {
-            "value": "//127.0.0.1:8081",
-            "label": "Local Relay"
-        },
-        {
-            "value": "http://127.0.0.1:8545",
-            "label": "LocalHost Relay"
         }
     ],
     "markets": [
@@ -1200,7 +1188,8 @@
         }
     ],
     "whiteList": [
-        "0x4c44d51cf0d35172fce9d69e2beac728de980e9d",
-        "0xec28569d3FD03Ac0Eb2157DBeC81a3665cb3D32d"
+        "0x80679a2c82ab82f1e73e14c4bec4ba1992f9f25a",
+        "0x8311804426a24495bd4306daf5f595a443a52e32",
+        "0xeba7136a36da0f5e16c6bdbc739c716bb5b65a00"
     ]
 }
