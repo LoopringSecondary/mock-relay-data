@@ -4,14 +4,15 @@
   "defaultLrcFeePermillage":2,
   "defaultGasPrice":21,
   "defaultMarginSplitPercentage":50,
-  "defaultGasLimit":84000,
+  "defaultGasLimit":21000,
+  "delegateAddress":"0x79E3b7c64e2F8bb98CC85eAB6FF9338ae2468984",
   "contracts": [
     {
       "address": "0x02a544b97709c764140b93b9e56d6ff88332c736",
       "version": "v0.0.1"
     },
     {
-      "address": "0x4c44d51cf0d35172fce9d69e2beac728de980e9d",
+      "address": "0xc01172a87f6cc20e1e3b9ad13a9e715fbc2d5aa9",
       "version": "v1.0"
     }
   ],
@@ -67,9 +68,9 @@
     {
       "token": "RDN",
       "name": "RDN",
-      "digits": 18,
+      "digits": 15,
       "address": "0x7599aa3D5B9019cFae7c934f5d42d18891cb3CAf",
-      "unit": "OMG",
+      "unit": "RDN",
       "website": "",
       "allowance": "1000000000000000000000",
       "allowanceWarn": "5000000000000000000",
@@ -91,9 +92,9 @@
     {
       "token": "RCN",
       "name": "RCN",
-      "digits": 18,
+      "digits": 15,
       "address": "0x58Ab00E351097883632b2CA0bEc8FCa2f3be7C16",
-      "unit": "PAY",
+      "unit": "RCN",
       "website": "",
       "allowance": "1000000000000000000000",
       "allowanceWarn": "5000000000000000000",
@@ -128,11 +129,43 @@
       "pricePrecision": 8
     }
   ],
+  "langs": [
+        {
+            "value": "en",
+            "label": "English"
+        },
+        {
+            "value": "zh",
+            "label": "中文"
+        }
+    ],
+    "fiat": [
+        {
+            "value": "usd",
+            "label": "USD"
+        },
+        {
+            "value": "cny",
+            "label": "CNY"
+        }
+    ],
+    "relays": [
+        {
+            "value": "//13.112.62.24:8083",
+            "label": "Default Loopring Relay"
+        },
+        {
+            "value": "//13.112.62.24:8083",
+            "label": "Backup Loopring Relay"
+        }
+    ],
   "whiteList": [
     "0x750aD4351bB728ceC7d639A9511F9D6488f1E259",
     "0xf26988F03a668f2C5422E6f6A05Ed93D65c985Ee",
     "0xB5FAB0B11776AAD5cE60588C16bd59DCfd61a1c2",
     "0x48ff2269e58a373120FFdBBdEE3FBceA854AC30A",
-    "0x78545edE91c1b5A8a19787f5adBd905C86fCE5eE"
+    "0x78545edE91c1b5A8a19787f5adBd905C86fCE5eE",
+    "0x251f3bD45B06A8B29cb6d171131e192C1254fEc1",
+    "0x432FBE2f4D0F8B682EcD96d07d11CBB829d8F042"
   ]
 }
