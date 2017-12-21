@@ -1191,6 +1191,7 @@
     "whiteList": [
         "0x80679a2c82ab82f1e73e14c4bec4ba1992f9f25a",
         "0x8311804426a24495bd4306daf5f595a443a52e32",
-        "0xeba7136a36da0f5e16c6bdbc739c716bb5b65a00"
+        "0xeba7136a36da0f5e16c6bdbc739c716bb5b65a00",
+        "0x1742eeA982d8172138fbf8e2f6B296D4E81045C2"
     ]
 }
