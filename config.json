@@ -5,6 +5,8 @@
     "defaultGasPrice":21,
     "defaultMarginSplitPercentage":50,
     "defaultGasLimit":84000,
+    "defaultExpireTime":30,
+    "defaultExpireTimeUnit":"Day",
     "delegateAddress":"0x450D10A0C61f2b007384128B626F28b757A75e49",
     "chainId":1,
     "contracts": [
@@ -1205,6 +1207,7 @@
         "0xc85e0C41F77b45B44723203997e05e80740C85c8",
         "0x93172c33ABE12A44B54158cB246e7774B44760Ce",
         "0x53DcbB03DEFa6543F0b04F76c2B7fEfd6aB20b2b",
-        "0xeC4A769D94Ac5F1C2c2866f29d6357Bb6C409772"
+        "0xeC4A769D94Ac5F1C2c2866f29d6357Bb6C409772",
+        "0x933650184994CFce9D64A9F3Ed14F1Fd017fF89A"
     ]
 }
